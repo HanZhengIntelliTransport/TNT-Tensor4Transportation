@@ -1,6 +1,7 @@
 name: TNT-Tensor4Transportation
 channels:
   - defaults
+  - pytorch
 dependencies:
   - python=3.12
   - networkx
@@ -9,10 +10,11 @@ dependencies:
   - matplotlib
   - zarr
   - pip
+  - pytorch::pytorch
+  - pytorch::torchvision
+  - pytorch::torchaudio
   - pip:
     - tensorly
     - Pyomo
-prefix: /opt/anaconda3/envs/TNT-Tensor4Transportation
 #conda env create -f environment.yml
 #conda activate your_environment_name
-#conda install pytorch::pytorch torchvision torchaudio -c pytorch

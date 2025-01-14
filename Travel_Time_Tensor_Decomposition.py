@@ -38,7 +38,7 @@ optimizer = torch.optim.Adam(
 )
 
 # Training loop
-num_iterations = 1000
+num_iterations = 10000
 for iteration in range(num_iterations):
     optimizer.zero_grad()
 
