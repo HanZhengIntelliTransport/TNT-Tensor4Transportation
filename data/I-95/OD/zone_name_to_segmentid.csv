@@ -1,0 +1,58 @@
+﻿Zone Name,SegmentId,OD Type
+95 Express Lanes / 436339933 / 1,436339933_0,Origin
+95 Express Lanes / 51826731 / 1,51826731_0,Origin
+95 Express Lanes / 636701141 / 1,636701141_0,Origin
+95 Express Lanes / 636701144 / 1,636701144_0,Origin
+I 95 / 307480708 / 1,307480708_0,Origin
+I 95 / 51826856 / 1,51826856_0,Origin
+I 95 / 687358695 / 1,687358695_0,Origin
+I 95 / 870344425 / 3,870344425_2,Origin
+I 95 / 872163516 / 1,872163516_0,Origin
+I 95 / 872165161 / 1,872165161_0,Origin
+motorway_link / 124891274 / 1,124891274_0,Origin
+motorway_link / 175659792 / 1,175659792_0,Origin
+motorway_link / 175659796 / 1,175659796_0,Origin
+motorway_link / 20422548 / 1,20422548_0,Origin
+motorway_link / 20422572 / 1,20422572_0,Origin
+motorway_link / 20428464 / 1,20428464_0,Origin
+motorway_link / 20429249 / 1,20429249_0,Origin
+motorway_link / 20432309 / 2,20432309_0,Origin
+motorway_link / 20433217 / 1,20433217_0,Origin
+motorway_link / 20433806 / 1,20433806_0,Origin
+motorway_link / 20435035 / 1,20435035_0,Origin
+motorway_link / 20438740 / 1,20438740_0,Origin
+motorway_link / 20439725 / 1,20439725_0,Origin
+motorway_link / 20441697 / 1,20441697_0,Origin
+motorway_link / 51808516 / 1,51808516_0,Origin
+motorway_link / 51862982 / 1,51862982_0,Origin
+motorway_link / 537938954 / 1,537938954_0,Origin
+motorway_link / 61155962 / 1,61155962_0,Origin
+motorway_link / 61155967 / 1,61155967_0,Origin
+95 Express Lanes / 436339933 / 1,436339933_0,Destination
+95 Express Lanes / 51826731 / 1,51826731_0,Destination
+95 Express Lanes / 636701141 / 1,636701141_0,Destination
+95 Express Lanes / 636701144 / 1,636701144_0,Destination
+I 95 / 307480708 / 1,307480708_0,Destination
+I 95 / 51826852 / 1,51826852_0,Destination
+I 95 / 870344425 / 3,870344425_2,Destination
+I 95 / 872163516 / 1,872163516_0,Destination
+I 95 / 872165161 / 1,872165161_0,Destination
+I 95 / 930885998 / 1,930885998_0,Destination
+motorway_link / 124891274 / 1,124891274_0,Destination
+motorway_link / 20419324 / 1,20419324_0,Destination
+motorway_link / 20419653 / 1,20419653_0,Destination
+motorway_link / 20423565 / 1,20423565_0,Destination
+motorway_link / 20424282 / 1,20424282_0,Destination
+motorway_link / 20426152 / 1,20426152_0,Destination
+motorway_link / 20428381 / 1,20428381_0,Destination
+motorway_link / 20428850 / 1,20428850_0,Destination
+motorway_link / 20439589 / 1,20439589_0,Destination
+motorway_link / 20440919 / 1,20440919_0,Destination
+motorway_link / 20440946 / 1,20440946_0,Destination
+motorway_link / 20441368 / 1,20441368_0,Destination
+motorway_link / 206378233 / 1,206378233_0,Destination
+motorway_link / 291999598 / 1,291999598_0,Destination
+motorway_link / 51808516 / 1,51808516_0,Destination
+motorway_link / 537938574 / 4,537938574_3,Destination
+motorway_link / 537938954 / 1,537938954_0,Destination
+motorway_link / 61155962 / 1,61155962_0,Destination
