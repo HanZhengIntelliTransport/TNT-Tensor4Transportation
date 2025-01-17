@@ -1,0 +1,28 @@
+{
+    "dims_info": [
+        {
+            "ids": [
+                "t0",
+                "t1"
+            ],
+            "name": "time"
+        },
+        {
+            "ids": [
+                "O1",
+                "O2",
+                "O3"
+            ],
+            "name": "origin"
+        },
+        {
+            "ids": [
+                "D1",
+                "D2",
+                "D3",
+                "D4"
+            ],
+            "name": "destination"
+        }
+    ]
+}
