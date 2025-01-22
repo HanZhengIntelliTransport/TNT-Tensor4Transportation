@@ -9,6 +9,9 @@ dependencies:
   - pandas
   - matplotlib
   - zarr
+  - dask
+  - xarray
+  - ipywidgets
   - pip
   - pytorch::pytorch
   - pytorch::torchvision
